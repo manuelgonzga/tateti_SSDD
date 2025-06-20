@@ -1,0 +1,17 @@
+Requisitos:
+    - Tener Python instalado en el sistema.
+    - Tener los archivos server.py y client.py en tu computadora.
+
+1. Iniciar el servidor:
+    - Abrí la consola o terminal.
+    - Navegá a la carpeta donde está ubicado el archivo server.py.
+    - Ejecutá el siguiente comando:
+        - python server.py
+
+2. Iniciar uno o varios clientes:
+    - Abrí una nueva consola por cada cliente que quieras conectar.
+    - Navegá a la misma carpeta o donde tengas el archivo client.py.
+    - Ejecutá el cliente con:
+        - python client.py
+    - Podés ejecutar tantas instancias del cliente como desees para permitir múltiples partidas simultáneas.
+
