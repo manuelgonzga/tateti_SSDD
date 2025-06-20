@@ -17,11 +17,8 @@ The application uses a client-server architecture:
 
 ## How to Run
 
-### 1. Start the Server
+## Start the Server and the client
 
 ```bash
 python server.py
-
-### 2. Start the Client
-
 python client.py
